@@ -1,0 +1,11 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+img {
+	border: 3px solid silver;
+	display: inline-block;
+	height: 400px;
+	width: 450px;
+}
