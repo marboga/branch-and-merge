@@ -1,6 +1,13 @@
 body {
 	background-color: black;
 	color: white;
+	width: 970px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+p {
+	text-align: left;
 }
 
 img {
