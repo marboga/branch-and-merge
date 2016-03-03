@@ -1,0 +1,26 @@
+180  pwd
+  181  cd ..
+  182  ls
+  183  mkdir test
+  184  cd test
+  185  touch index.html
+  186  touch styles.css
+  187  git init
+  188  ls -a
+  189  git add .
+  190  git commit -m "initial commit"
+  191  git status
+  192  git add .
+  193  git commit -m "update html"
+  194  git status
+  195  git add .
+  196  git commit -m "update css"
+  197  git log
+  198  git revert
+  199  git revert options
+  200  git revert b2f9e85
+  201  git status
+  202  git commit -m "this reverts my changes"
+  203  git log
+  204  touch commands.txt
+  205  history
